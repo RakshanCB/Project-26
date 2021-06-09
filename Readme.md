@@ -4,3 +4,4 @@ A simple mango lassi is made with fresh yogurt or Curd and sweet mangoes.For a b
 
 https://github.com/RakshanCB/Project-26/commit/985573cac2939818df3416195f0af9ffceddd40b(ingridients.md)
 
+https://github.com/RakshanCB/Project-26/blob/main/recipe.md(recipie.md)
